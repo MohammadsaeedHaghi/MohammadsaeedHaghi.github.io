@@ -3,12 +3,14 @@ layout: default
 title: Welcome
 ---
 
-# Hello, I'm Saeed
+# Mohammadsaeed Haghi
 
-This is my personal website built using GitHub Pages and Jekyll.
+Welcome to my personal website.
 
-- PhD Student at USC
-- Researching causal inference, optimization, and decision making
-- Love math, code, and Persian literature
+I'm a PhD student at USC, interested in causal inference, decision theory, and optimization.
 
-You can [view my CV](cv.pdf) or check out my [GitHub](https://github.com/mohammadsaeedhaghi).
+- 📚 Researcher
+- 💻 Programmer
+- 📝 Writer
+
+[View my GitHub](https://github.com/mohammadsaeedhaghi)
